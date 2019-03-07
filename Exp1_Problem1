@@ -37,7 +37,7 @@ int main()
 	cout << "= " << genad*NumberofTicketsSold << endl;
 
 	cout << "Total=";
-	cout << " " << genad*NumberofTicketsSold) + sideline*NumberofTicketsSold + box*NumberofTicketsSold + premium*NumberofTicketsSold << endl;
+	cout << " " << genad*NumberofTicketsSold + sideline*NumberofTicketsSold + box*NumberofTicketsSold + premium*NumberofTicketsSold << endl;
 
 	getch();
 }
